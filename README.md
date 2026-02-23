@@ -25,6 +25,6 @@ I keep a simple site to track my progress and host some of my notes:
 [**chrkar03.github.io**](https://chrkar03.github.io/)
 
 ### Contact
-If you are also interested in systems or architecture, feel free to reach out via GitHub or through my university email(chrkaragiannis@uth.gr).
+If you are also interested in systems or architecture, feel free to reach out via GitHub or through my university email(chrkaragiannis at uth dot gr).
 
 ---
