@@ -10,7 +10,7 @@ I am a senior student at the **Department of Electrical and Computer Engineering
 I spend most of my time learning about:
 * **Computer Architecture & Accelerators:** Understanding memory hierarchies and custom hardware logic.
 * **Compilers:** Learning how high-level code is transformed and optimized for the machine.
-* **Systems Programming:** Writing efficient, low-level code in C, C++, and Rust.
+* **Systems Programming:** Writing efficient, low-level code in C/C++.
 * **High-Performance Computing:** Parallelizing tasks to make better use of available resources.
 
 ### Technical Interests & Tools
