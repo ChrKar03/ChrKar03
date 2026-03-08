@@ -5,17 +5,17 @@ ECE Student @ University of Thessaly, Volos.
 ---
 
 ### About Me
-I am a senior student at the **Department of Electrical and Computer Engineering** (UTH). My academic focus is on how software interacts with hardware, particularly in high-performance environments. 
+I am a senior student at the **Department of Electrical and Computer Engineering** (UTH). My academic focus is on SW/Hw interplay. 
 
 I spend most of my time learning about:
-* **Computer Architecture & Accelerators:** Understanding memory hierarchies and custom hardware logic.
-* **Compilers:** Learning how high-level code is transformed and optimized for the machine.
-* **Systems Programming:** Writing efficient, low-level code in C/C++.
-* **High-Performance Computing:** Parallelizing tasks to make better use of available resources.
+* **Computer Architecture & Accelerators**.
+* **Compilers:**.
+* **Systems Programming:**.
+* **High-Performance Computing:**.
 
 ### Technical Interests & Tools
-- **Languages:** C/C++, Python, RISC-V.
-- **Tools:** Linux environments, Git, and basic experience with LLVM and Verilog.
+- **Languages:** C/C++, Python, Verilog.
+- **Tools:** Linux, Git and LLVM.
 - **Academic Projects:** Most of my work involves system-level simulations and optimization tasks.
 
 ---
