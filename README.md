@@ -26,7 +26,7 @@ I keep a simple site here (I am still working on it):
 
 ### Resume
 You can find my resume here:
-[**CHRISTOS_KARAGIANNIS_CV**][https://chrkar03.github.io/CHRISTOS_KARAGIANNIS_CV.pdf]
+[**CHRISTOS_KARAGIANNIS_CV**](https://chrkar03.github.io/CHRISTOS_KARAGIANNIS_CV.pdf)
 ### Contact
 If you are also interested in systems or architecture, feel free to reach out via GitHub or through my university email(chrkaragiannis at uth dot gr).
 
