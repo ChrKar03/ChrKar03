@@ -5,7 +5,7 @@ ECE Student @ University of Thessaly, Volos.
 ---
 
 ### About Me
-I am a senior student at the **Department of Electrical and Computer Engineering** (UTH). My academic focus is on SW/Hw interplay. 
+I am a senior student at the **Department of Electrical and Computer Engineering** (UTH). My academic focus is on SW/HW interplay. 
 
 I spend most of my time learning about:
 * **Computer Architecture & Accelerators**.
