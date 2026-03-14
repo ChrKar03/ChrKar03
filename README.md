@@ -9,9 +9,9 @@ I am a senior student at the **Department of Electrical and Computer Engineering
 
 I spend most of my time learning about:
 * **Computer Architecture & Accelerators**.
-* **Compilers:**.
-* **Systems Programming:**.
-* **High-Performance Computing:**.
+* **Compilers**.
+* **Systems Programming**.
+* **High-Performance Computing**.
 
 ### Technical Interests & Tools
 - **Languages:** C/C++, Python, Verilog.
